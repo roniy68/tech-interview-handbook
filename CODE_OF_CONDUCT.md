@@ -1,4 +1,4 @@
-# Code Of  Codunt [ tech-interview-handbook ]
+# Code Of  Conduct [ tech-interview-handbook ]
 
 ## Our Pledge
 
@@ -52,4 +52,5 @@ We acknowledge that creating an open and inclusive community requires continuous
 # Visit ME : [ahroniy.me](https://ahroniy.me)
 
 Happy Coding 🙃
+
 
